@@ -1,0 +1,58 @@
+Dia 22
+
+Metodologias ageis | Scrum 
+
+slides
+
+slide 1 
+Empresa Standish Group
+
+empresas de tecbologias estavam tendo um baixo sucesso 
+
+pesquisa de 2009: 
+
+32% bem sucedidos 
+24% fracassaram completante 
+44% encerraram com gaps 
+
+slide 2 
+
+Manifesto agil 
+criado em 2001 busca oferecer entregas rapidas e de qualidade
+ele é um documento que estabelece os principais valores que orientam o desenvolvimento de software
+por que ? 
+por que eles perceberam que os metodos tredicionais eram muito mais lentos e muito pessados e pouco adaptado a mudanças 
+
+slide 3 
+Maifesto agil 
+
+4 valores 12 principios fundamentais 
+
+1. interação entre individuos - a importancia da coloboração entre pessoas
+
+2.software funcionando - Entregar um software funcional e não apenas se conscentrar na documentação 
+
+3.interação com o cliente - Coloboração com o cliente mais que negociação de contratos 
+
+4.Ser flexivel e não seguir apenas um plano fixo sem adapatação a possiveis mudanças 
+
+obs: o time, o cliente, o software e adaptabilidade 
+
+metodos ageis são aqueles compativeis com os valores e principios ageis
+
+
+plsnejamento 
+analise dos requisitos 
+design 
+codificação e testagem 
+implementação 
+manutenção - praticamente infinito, updates e melhorias para o software regularmente se necessario.
+
+- Exemplos da aula 
+
+
+- Duvidas e observações 
+
+gaps - alhas, deficiências ou ausências em processos, políticas, ferramentas ou sistemas que deveriam proteger as informações e infraestruturas tecnológicas de uma organização
+
+tarrefas 

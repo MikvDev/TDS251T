@@ -1,0 +1,15 @@
+Sabemos como a rotina pode ser corrida e, muitas vezes, detalhes importantes sobre a saúde dos nossos animais acabam passando despercebidos. Pensando nisso, criamos uma ferramenta simples e eficiente que ajuda os tutores a se manterem organizados e informados.
+
+Com o nosso aplicativo, é possível:
+
+Cadastrar seus pets com informações detalhadas, como nome, raça, idade e histórico de saúde.
+
+Agendar lembretes personalizados para vacinas, vermífugos, consultas veterinárias e outros cuidados essenciais.
+
+Receber notificações automáticas, garantindo que nenhuma data importante seja esquecida.
+
+Acompanhar o histórico de saúde do seu pet, facilitando o monitoramento contínuo e as visitas ao veterinário.
+
+Nosso objetivo é proporcionar tranquilidade aos tutores, assegurando que seus pets recebam os cuidados necessários no momento certo. Ao centralizar todas essas informações em um único lugar, tornamos o processo de cuidado mais simples e eficaz.
+
+Estamos entusiasmados com o impacto positivo que nosso aplicativo pode ter na vida dos tutores e de seus animais. Agradecemos pela atenção e estamos à disposição para responder a quaisquer perguntas que possam ter."
