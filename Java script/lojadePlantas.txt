@@ -1,0 +1,147 @@
+ *************** Requisitos funcionais *****************
+
+- o que o software vai fazer?
+- quais funcionalidades devem ser incluidas?
+- enderço 
+- filtro
+- disponibilidade 
+- pagamento 
+- Entender nosso cliente 
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------
+
+Cadastro de livros de uma livraria 
+*livros
+*clientes
+*vendas 
+
+- quantidade
+- cadastro 
+- autor 
+- preço 
+- cadastro do cliente
+- qual cliente
+- comunicaçao com o cliente, feadback das pessoas - pagina de reporte de bug ou melhorias 
+- registro de vendas
+
+---
+=> desempenho 
+ele precisa ser rapido, se não pode gerar desistencia do cliente
+max 2 s 
+=> capacidade 
+100 pessoas comprando um livro, ele precisa garantir a melhor experiencia sem travar ou ficar lento
+=> segurança 
+email, senha, endereço 
+dados criptografados, esconder informações sensiveis do cliente 
+Autenticação dos usuarios - APENAS pessoas autorizadas 
+
+=> usuabilidade
+gastar com treinamento 
+tem que ser intuitiva 
+qualquer pessoa tem que saber usar
+ações de interface intitiva - X ( fechar pagina )
+FECHAR PAGINA - Não intuitivo 
+menu hamburguer - coisas que as pessoas já conhecem 
+suporte a dispositivos moveis, computadores, notebooks ou tablets
+- boa responsividade
+- como a aparencia do site vai parecerer mobile e desktop 
+
+=> confiabilidade 
+
+- tempo de atividade - deve estar disponivel 99% do tempo, sem site sem venda 
+- recuperação de erros, em caso de erro o site deve ser capaz de se recuperar rapido 
+
+***cores***
+utilizando cores para criar uma interface intuitiva 
+
+
+=> verde
+=> vermelho 
+
+
+
+
+requistos não funcionais - Muito importante-
+- Como o software vai fazer?
+
+- Usuabilidade - fácil de entender ?
+- 
+- é facil o cliente chegar em um ponto expecifico ( onde fica cada seção, singup, login)
+- é seguro? cliente deve ter confiança no site 
+- é eficiente, é rapido?
+- garantir uma boa experiencia - imp
+
+
+
+
+
+
+
+
+
+att
+
+1. oq o site vai fazer
+2. como fazer req nao fun
+
+conograma 
+
+
+
+Miguel e Emanuel 
+
+resumo 
+
+Site de jardinagem 
+
+Um site focado em venda de plantas, ferramenta, vasos e dar dicas de como cuidar de suas plantas, provisorios para planatas
+
+
+requistos funcionais 
+- Cadastro ( nome, email, celular, endereço, senha)
+- menu hamburguer para celular 
+- suporte ao cliente ( reporte de bugs, mrlhorias, rembolso, duvidas gerais  )
+- venda
+- cadastro das planatas ( nome, especie, tamanho, preço, idade, terra que vem junto)
+- promocoes de estaçoes 
+- barra de busca 
+- dicas sobre plantas 
+- filtro de categoria de plantas 
+- estoque 
+- captcha
+- 
+
+
+requitos n fun
+
+- Historico de compras
+- historico de buscas
+- segurança 
+- desempenho rapido 
+- suporte pra computador, celular e tablet
+- autenticação 
+- 
+- disponibilidade
+- 
+
+
+
+
+requistos nao
+
+
+
+
+
+
+

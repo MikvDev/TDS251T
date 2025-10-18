@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function calcularArea(altura,largura){
+            return (parseFloat(largura) * parseFloat(altura))
+        }
+
+        let largura = prompt("Qual é a largura do retangulo??")
+        let altura = prompt("Qual é a altura do retangulo??")
+
+        let total = calcularArea(largura,altura)
+        alert(`A area total do retangulo é!! : ${total}`)
+
+        // 5, 3 = 15
+        // 10, 4 = 40
+        // 7 ,5 = 35
+        // 8,2 = 16
+        // 9,5 = 45
+        // 10, 7 = 70
+    </script>
+</body>
+</html>

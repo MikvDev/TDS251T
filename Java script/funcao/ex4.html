@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function moedasTotais(moedasGrandes,moedasPequenas){
+            
+        return (parseFloat(moedasPequenas) * 1 + parseFloat(moedasGrandes) * 5)
+        
+        }
+        
+       
+        let moedasPequenas = prompt("Quantas moedas pequenas você coletou!")
+        let moedasGrandes =  prompt("Quantas moedas grandes você coletou!")
+        let total = moedasTotais(moedasGrandes,moedasPequenas)
+        
+      
+        alert(`Você fez ${total}`)
+    </script>
+</body>
+</html>

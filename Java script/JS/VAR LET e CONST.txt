@@ -1,0 +1,54 @@
+Var Let e Const.:
+aula 6 - programação web
+Obs: são recipentes, armarios, ou caixas onde podemos armazenar uma informação, stringn number...
+
+
+var pote = "bombom" 
+alert(pote)
+
+saida.: Bombom 
+
+informação armazenda
+*******************************
+
+var a = 2
+var b = 3
+var c = a + b 
+
+alert(a + b )
+saida .: 5 
+
+Forma mais organizada!!!
+Declaração de var
+var a,b,c;
+
+
+atribuição de valores 
+a = 2 
+b = 3 
+c = a + b = 5
+************************
+var Data_de = usar _ para separar 
+usar Letras não numeros para começar variaveis 
+ **nan = não é um numero 
+
+
+*************************
+
+ var nome, sobrenome;
+
+
+
+
+
+ Var let e const
+
+
+
+let pode ser nomeado apenas uma vez, e dentro de escopos ela pode ser mudado, onde ela vai valer apenas ali.
+
+var não tem diferença, pode ser declarado toda vez.
+coringa.
+
+constante não muda nem a pau, não obedece mudanças em outro lugar.
+ 

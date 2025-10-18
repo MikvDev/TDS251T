@@ -1,0 +1,15 @@
+JS interno e externo
+
+interno.:
+<html>
+<script src= "js/index.js">  alert("OLa mundo") </script>
+</html>
+  OBS: É o JS dentro de uma pagina html, ele não possui uma pagina .js para ele 
+
+
+externo.:
+sempre colocar antes da tag de fechamento do Body 
+<script src= "js/index.js">  </script>
+   OBS: Aqui a gente linka para outra pagina onde o JS vai estar rodando
+
+   https://youtu.be/vEwPnjqWQ-g?si=MqmpgXqSIZ0zqHsp

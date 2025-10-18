@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#menu-h {
+    background-color: dimgray;
+}
+
+#menu-h ul {
+    max-width: 800px;
+    margin: 0 auto;  /* Centraliza o menu */
+    padding: 0;
+    list-style: none;
+    display: flex; /* Deixa os itens lado a lado */
+}
+
+#menu-h ul li {
+    display: inline-block; /* Opcional, pois já estamos usando flex */
+}
+
+#menu-h ul li a {
+    display: inline-block;
+    transition: background .4s ease-out;
+    text-decoration: none;
+    padding: 20px;
+    color: #fff;
+}
+
+#menu-h ul li a:hover {
+    background-color: #4b35c9;
+}
+
+/* Empurra o último item para a direita */
+#menu-h ul li:last-child {
+    margin-left: auto;
+    background-color: blueviolet;
+}

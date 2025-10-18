@@ -1,0 +1,62 @@
+:root { 
+    --cor-fundo: #47b847ec;
+    --cor-hover: #22c5d1; 
+    --cor: #3a3131;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.dd-m {
+    background-color: var(--cor-fundo);
+}
+
+.dd-m ul {
+    display: flex; /* Alinha os itens principais na horizontal */
+    list-style: none;
+    padding: 0;
+}
+
+.dd-m ul li {
+    position: relative; /* Importante para o posicionamento do submenu */
+}
+
+.dd-m ul li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 20px;
+    display: block;
+    transition: background .4s;
+}
+
+.dd-m ul li a:hover {
+    background-color: darkolivegreen;
+}
+
+/* Submenu */
+.dd-m ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: var(--cor-fundo);
+    list-style: none;
+    width: 150px;
+}
+
+.dd-m ul ul li {
+    display: block;
+}
+
+.dd-m ul ul li a {
+    display: block;
+    padding: 10px;
+}
+
+/* Mostra o submenu quando passa o mouse */
+.dd-m ul li:hover > ul {
+    display: block;
+}

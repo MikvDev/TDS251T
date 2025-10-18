@@ -1,0 +1,44 @@
+Projeto de software 
+
+
+=> Descreve a organização geral do software --- design de alto nível, de baixo nível, visa traduzir requisitos em soluções estrutura
+=> PAdroes arquiteturai, camadas e tecnologias utilizadas 
+=> Imporante para garantir escabilidade, desempenho e manuailidade 
+
+
+
+
+DSA - descreve a organização geral do software, importante para garantir escabilidade, desempenho e manuabiliddae
+ex: Planejar um app de e-commerce definindo que ele terá um back-end em microserviços e um front-end separado  
+DSB - Foca nos detalhes da implementação de classes, módulos e interfaces.
+
+
+Etapas 
+
+
+1. Planejamento 
+2. Analise de requisitos | Requisitos funcionais, Requisitos não funcionais 
+3. Design 
+4. Codificação e testagem - muito importante 
+5. Implementação - deixar disponível 
+6. manutenção  
+
+
+levantamento de requisitos - entender as necessidades do usuário
+analise de planejamento - definir escopo , recursos, riscos do projeto  
+DSA  
+DSB
+
+
+Traduzindo requisitos em soluções  estruturadas 
+
+- O sucesso de um  software depende da correta interpretação dos requisitos - ****** tenha certeza dos requisitos, pergunte ao cliente *****
+
+traduzir requisitos significa transformar necessidades do usuário de uma estrutura organizada de software 
+
+stakeholders(clientes, usuários, gerentes )
+
+
+requisitos de negócios: regras e  diretrizes 
+regras de negócio do sistema 
+cadatro de usuário 
