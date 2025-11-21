@@ -8,9 +8,10 @@ package fundamentosjavasenac.varPrimitivasEReferencias;
  *
  * @author MIGUELVARGASFERREIRA
  */
-public class RemoverEspacos {
+public class TaVasio {
     public static void main(String[] args) {
-        String t = " Ola ";
-        System.out.println(t.trim());
+        String a = "";
+       boolean tavasio = a.isEmpty();
+        System.out.println(tavasio);
     }
 }

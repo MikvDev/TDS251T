@@ -8,9 +8,13 @@ package fundamentosjavasenac.varPrimitivasEReferencias;
  *
  * @author MIGUELVARGASFERREIRA
  */
-public class RemoverEspacos {
+public class OperacoesComuns {
     public static void main(String[] args) {
-        String t = " Ola ";
-        System.out.println(t.trim());
+        String palavra = "computador";
+        
+        boolean teste1 = palavra.contains("put");
+        
+        
+        boolean teste2 = palavra.contains("xyz");
     }
 }

@@ -15,6 +15,6 @@ public class comparar {
         
         boolean igual1 = a.equals(b);
         boolean igual2 = a.equalsIgnoreCase(b);
-        System.out.println(igual2);
+        System.out.println(igual1);
     }
 }

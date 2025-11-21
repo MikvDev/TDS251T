@@ -8,9 +8,12 @@ package fundamentosjavasenac.varPrimitivasEReferencias;
  *
  * @author MIGUELVARGASFERREIRA
  */
-public class RemoverEspacos {
+public class RecortarPartes {
     public static void main(String[] args) {
-        String t = " Ola ";
-        System.out.println(t.trim());
+        String frase = "Java e increvel";
+        String parte1 = frase.substring(0,4);
+        String parte2 = frase.substring(7);
+        
+        System.out.println(parte1);
     }
 }
