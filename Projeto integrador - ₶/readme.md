@@ -13,7 +13,7 @@ Nosso objetivo é criar uma ferramenta que une **Design Inclusivo** e tecnologia
 - **A Solução:** Um app com interface limpa, feedback visual constante e mascote interativo (a capivara!) para engajar sem sobrecarregar.
 
 ##   Telas e Funcionalidades
-*(Aqui você coloca os prints que você já tem no Figma ou no app)*
+
 
 | Tela Inicial | Atividade de Vogais | Perfil |
 |:---:|:---:|:---:|
