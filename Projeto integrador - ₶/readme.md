@@ -17,7 +17,7 @@ Nosso objetivo é criar uma ferramenta que une **Design Inclusivo** e tecnologia
 
 | Tela Inicial | Atividade de Vogais | Perfil |
 |:---:|:---:|:---:|
-| ![Home](link-img-1) | ![Atividade](link-img-2) | ![Perfil](link-img-3) |
+| ![Home](https://github.com/MikvDev/TDS251T/blob/main/Projeto%20integrador%20-%20%E2%82%B6/imagens/Jogos%20(2).png) | ![Atividade](link-img-2) | ![Perfil](link-img-3) |
 
 - [x] **Cadastro de Perfis:** Personalização para diferentes alunos.
 - [ ] **Minigames de Alfabetização:** (Em desenvolvimento)
