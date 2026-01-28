@@ -2,7 +2,7 @@
 ## Venha aprender e brincar com a Capy!
 > "Aprendizado divertido e inclusivo para todos."
 
-![Capa do Projeto](<img width="393" height="852" alt="User" src="https://github.com/user-attachme/imagens/user.png" />)
+![Capa do Projeto](https://github.com/MikvDev/TDS251T/blob/main/Projeto%20integrador%20-%20%E2%82%B6/imagens/CADASTRO%20OU%20LOGIN.png)
 
 ## 📌 Sobre o Projeto
 O **ABCapy** é uma aplicação desenvolvida para auxiliar no processo de alfabetização e aprendizado de crianças com **TEA (Transtorno do Espectro Autista)**.
