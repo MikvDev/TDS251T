@@ -15,9 +15,9 @@ Nosso objetivo é criar uma ferramenta que une **Design Inclusivo** e tecnologia
 ##   Telas e Funcionalidades
 
 
-| Tela Inicial | Atividade de Vogais | Perfil |
+| Tela Inicial | Histórias | Perfil |
 |:---:|:---:|:---:|
-| ![Home](https://github.com/MikvDev/TDS251T/blob/main/Projeto%20integrador%20-%20%E2%82%B6/imagens/Jogos%20(2).png) | ![Histórias](https://github.com/MikvDev/TDS251T/blob/main/Projeto%20integrador%20-%20%E2%82%B6/imagens/user.png) | ![Perfil](https://github.com/MikvDev/TDS251T/blob/main/Projeto%20integrador%20-%20%E2%82%B6/imagens/user.png) |
+| ![Home](https://github.com/MikvDev/TDS251T/blob/main/Projeto%20integrador%20-%20%E2%82%B6/imagens/Jogos%20(2).png) | ![Histórias](https://github.com/MikvDev/TDS251T/blob/main/Projeto%20integrador%20-%20%E2%82%B6/imagens/Historia.png) | ![Perfil](https://github.com/MikvDev/TDS251T/blob/main/Projeto%20integrador%20-%20%E2%82%B6/imagens/user.png) |
 
 - [x] **Cadastro de Perfis:** Personalização para diferentes alunos.
 - [ ] **Minigames de Alfabetização:** (Em desenvolvimento)
