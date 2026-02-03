@@ -1,0 +1,4 @@
+br\com\lojinha\dao\JogoDAO.class
+br\com\lojinha\util\ConnectionFactory.class
+br\com\lojinha\app\Main.class
+br\com\lojinha\model\Jogo.class
