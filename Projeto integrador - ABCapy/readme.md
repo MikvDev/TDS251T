@@ -33,7 +33,7 @@ Este projeto está sendo desenvolvido com:
 
 ##  Equipe
 Projeto Integrador desenvolvido por:
-- **[Miguel Vargas ferreira](www.linkedin.com/in/miguel-vargas-dev)** - 
+- **[Miguel Vargas ferreira](https://www.linkedin.com/in/miguel-vargas-dev/)** - 
 - **[Gabriela Silva da Rosa](https://www.linkedin.com/in/gabriela-silva-da-rosa-599b313a8/)** - 
 
 
