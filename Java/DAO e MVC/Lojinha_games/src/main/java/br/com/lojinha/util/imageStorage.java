@@ -22,7 +22,7 @@ public class imageStorage {
     private static final String PASTA_IMAGENS = "imagens";
     // Método esátio para salvar image,
     // Recebe um arquivo e retorna o caminho salvo
-    public static void main(String[] args) {
+    public static String salvarImagem(File arquivo){
         
     }
     
