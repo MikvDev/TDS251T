@@ -16,6 +16,9 @@ public class Jogo {
     private double preco;
     private String imagemPath;
 
+    public Jogo() {
+    }
+
     
     public Jogo(int id){
         this.id = id;
